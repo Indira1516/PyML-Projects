@@ -1,2 +1,0 @@
-# PyML-Projects
-Datascience projects
